@@ -15,6 +15,8 @@ pretraining, Top_k sampling, Temperature, Fine-tuning, Self-attention mechanism,
 This repository contains the files that I used to understand and implement the code given in the book.
 Most of the code will be similar to that of the book.
 
+Some part of the code might be in comments which indicates there is a better version of it implemented next.
+
 > tensor.py           -> Basics related to tensors, optimizers, auto grad calculation using pytorch framework.
 
 > tokenizer.py        -> Tokenizing text manually without using BPE in tiktoken library
