@@ -4,11 +4,6 @@
 Completed reading the book "Building a Large Language Model From Scratch" by Sebastian Raschka
 as an LLM REsearcher intern at attentions.ai in Pune.
 
-This is the official repository of the book. 
-(https://github.com/rasbt/LLMs-from-scratch)
-
-***This repository is only to record my work on this book and no intention to copy the work of author.***
-
 Recommended for beginners to understand basic concepts of LLM like Transformer architecture, decoder, enocoder,
 pretraining, Top_k sampling, Temperature, Fine-tuning, Self-attention mechanism, Neural networks, Text-generation etc.
 
